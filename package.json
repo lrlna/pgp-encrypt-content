@@ -1,6 +1,6 @@
 {
   "name": "pgp-encrypt-content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "send a pgp contact form email",
   "main": "index.js",
   "scripts": {
