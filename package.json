@@ -1,5 +1,5 @@
 {
-  "name": "concrypt",
+  "name": "pgp-encrypt-content",
   "version": "1.0.0",
   "description": "send a pgp contact form email",
   "main": "index.js",
