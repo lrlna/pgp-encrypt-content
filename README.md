@@ -36,5 +36,5 @@ import from an armored pgp key you provided and encrypt your message.
 Install with npm:
 
 ```
-npm install concrypt
+npm install pgp-encrypt-content 
 ```
