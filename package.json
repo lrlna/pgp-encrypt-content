@@ -1,0 +1,22 @@
+{
+  "name": "concrypt",
+  "version": "1.0.0",
+  "description": "send a pgp contact form email",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "pgp",
+    "contact",
+    "form",
+    "encrypted",
+    "emails"
+  ],
+  "author": "Irina Shestak",
+  "license": "MIT",
+  "dependencies": {
+    "kbpgp": "^2.0.62",
+    "openpgp": "^2.3.7"
+  }
+}
